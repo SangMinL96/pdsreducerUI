@@ -1,0 +1,1 @@
+REACT_APP_API_GW_URL=https://hipong-apitst.phoenixdarts.com
