@@ -1,6 +1,7 @@
 # context, reducer 컴포넌트 구조 백업 소스
 * 개발 도중 백엔드개발(부장)의 요청으로 구조 변경
-* Context,Detail,Search,Table,index컴포넌트 관리중 Index에 모든 컴포넌트를 합치자는 의견을   
+* Context,Detail,Search,Table,index컴포넌트 관리중 
+* Index에 모든 컴포넌트를 모으라는 요청으로 컴포넌트 구조변경 
 
 ## 사용라이브러리
 * MATERIAL-UI 
