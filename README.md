@@ -1,3 +1,16 @@
+# context, reducer 컴포넌트 구조 백업 소스
+* 개발 도중 백엔드개발(부장)의 요청으로 구조 변경
+* searchBar, table,
+
+## 사용라이브러리
+* MATERIAL-UI 
+* react-hook-from
+* ag-grid
+ 
+## 사용기술 
+* graphql,apollo
+* mariaDB
+
 ## PDS_ADMIN_UI 
 - 하이퐁 어드민 사이트
 
@@ -13,4 +26,3 @@
 -[ ] 운영자 관리 UI
 
 ## MDM 개발
--[ ] 
